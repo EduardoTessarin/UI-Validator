@@ -1,0 +1,4 @@
+# rois.yaml
+baseline_exemplo.png:
+  - [1, 82, 1062, 524]
+  - [10, 1987, 1056, 2140]
