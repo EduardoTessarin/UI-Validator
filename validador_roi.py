@@ -2,9 +2,9 @@ import os, pdb
 import yaml
 from PIL import Image
 
-diretorio_baseline = 'solucao-rd/baseline'
-diretorio_atual = 'solucao-rd/atual'
-diretorio_divergentes = 'solucao-rd/divergentes'
+diretorio_baseline = 'baseline'
+diretorio_atual = 'atual'
+diretorio_divergentes = 'divergentes'
 
 total_testes = 0
 testes_passaram = 0
